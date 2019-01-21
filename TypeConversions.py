@@ -19,3 +19,13 @@ print(type(c))
 d = b + c
 
 print ("Sum Of values is : ", d)
+                                    # In another way...
+first=int(input("Enter First Number : "))
+second=int(input("Enter seconf number : "))
+
+total = first + second
+
+print(total)
+
+
+
